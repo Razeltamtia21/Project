@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: black;
+}
+
+h2 {
+    text-align: center;
+    color: crimson;
+}
+
+audio {
+    margin: 13px auto;
+    display: flex;
+}
