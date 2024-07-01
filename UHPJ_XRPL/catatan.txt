@@ -1,0 +1,56 @@
+https://raw.githubusercontent.com/SpacehuhnTech/arduino/main/package_spacehuhn_index.json
+
+cd /mnt/c/xampp/htdocs/compat-wireless-2010-06-26-p/compat-wireless-2010-06-26-p
+
+netsh wlan show profiles
+
+Badan Berotot: BUFFMEUP / JYSDSOD
+Sex Appeal Maksimum: HELLOLADIES / EHIBXQS
+Melompat Tinggi: KANGAROO / LFGMHAL
+Tinjuan Super: STINGLIKEABEE / IAVENJQ
+Mengontrol Senjata Manual di Mobil: OUIQDMW
+BMX Melompat Tinggi: CJPHONEHOME / JHJOECW
+Napas Tidak Terbatas Saat Berenang: CVWKXAM
+Respect Max: WORSHIPME
+Skill Menyetir Natural: NATURALTALENT
+Skill Menyetir Max: STICKLIKEGLUE / PGGOMOY
+Badan Normal: KVGYZQK
+Tidak Pernah Lapar: AEDUWNV
+Hitman Level: PROFESSIONALKILLER / NCSGDAG
+Amunisi Tidak Terbatas: FULLCLIP / WANRLTW
+Nyawa Tidak Terbatas: CAINEMVHZC / BAGUVIX
+Badan Gemuk: BTCDBCB
+Health, Uang, Armor: HESOYAM
+Bunuh Diri: GOODBYECRUELWORLD / SZCMAWO
+Senjata (Tier 1): LXGIWYL
+Senjata (Tier 2): PROFESSIONALSKIT / KJKSZPJ
+Senjata (Tier 3): UZUMYMW
+
+Mobil Balap: VROCKPOKEY / PDNEJOH
+Mobil Balap 2: VPJTQWV
+Truk Monster: MONSTERMASH
+Tank Rhino: AIWPRTON
+Tanker: AMOMHRER
+Rancher: JQNTDMH
+Romero: WHERESTHEFUNERAL / AQTBCODX
+Limousin: CELEBRITYSTATUS / KRIJIEBR
+Truk Sampah: TRUEGRIME / UBHYZHQ
+Pesawat Capung: FLYINGTOSTUNT / URKQSRK
+Golf: RZHSUEW
+Vortex: KGGGDKP
+Bloodring Banger: OLDSPEEDDEMON / CQZIJMB
+Dozer: ITSALLBULL / EEGCYXT
+Pesawat Tempur (Hydra): JUMPJET
+Helikopter Hunter: OHDUDE
+Jetpack: ROCKETMAN
+ATV: FOURWHEELFUN / AKJJYGLC
+Parasut: AIYPWZQP
+
+Mobil Kebal: JCNRUAD
+Kapal Terbang: FLYINGFISH / AFSNMSMW
+Mobil Terbang: CHITTYCHITTYBANGBANG / RIPAZHA
+Meledakkan Semua Mobil: ALLCARSGOBOOM / CPKTNWT
+Semua Mobil Dilengkapi NOS: SPEEDFREAK
+Taksi NOS: VKYPQCF
+Mobil Ringan: BUBBLECARS / BSXSGGC
+Mobil Transparan: WHEELSONLYPLEASE / XICWMD
