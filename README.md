@@ -7,7 +7,6 @@ Saya Razel, seorang siswa SMK yang memiliki minat besar dalam dunia teknologi da
 ## Keahlian
 
 - **Bahasa Pemrograman:** C#, java, html, css, php and javascript
-- **Kerangka Kerja:** React, Node.js
 - **Basis Data:** MySQL
 
 ## Proyek
