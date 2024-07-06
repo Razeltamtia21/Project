@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    font-family:arial, sans-serif;
+    height: 96.9vh;
+}
+
+h2 {
+    text-align: end;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    background-color: rgb(0, 110, 255);
+    width: 650px;
+    padding: 7px;
+    height: max-content;
+    justify-content: center;
+}
+
+.keys {
+    margin: 40px;
+    font-size: 19px;
+    width: 280px;
+    height: max-content;
+    justify-content: flex-end;
+}
+
+h4 {
+    width: 150px;
+    text-align: end;
+    color: brown;
+}
+
+p {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 10px;
+}

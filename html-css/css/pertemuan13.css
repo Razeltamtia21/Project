@@ -1,0 +1,105 @@
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+background-color: #f4f4f4;
+}
+
+header {
+background-color: #333;
+color: #fff;
+padding: 10px 0;
+}
+
+header .container {
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+header h1 {
+margin: 0;
+padding-left: 0px;
+}
+
+nav ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+display: flex;
+}
+
+nav ul li {
+margin: 0 10px;
+}
+
+nav ul li a {
+color: #fff;
+text-decoration: none;
+}
+
+.hero {
+background-color: #555;
+color: #fff;
+padding: 50px 0;
+text-align: center;
+}
+
+.hero h2 {
+margin: 0;
+}
+
+.container {
+width: 80%;
+margin: 0 auto;
+}
+
+section {
+padding: 20px 0;
+}
+
+form {
+display: inline-block;
+flex-direction: column;
+}
+
+form input, textarea{
+width: 1000px 0;
+}
+
+form label {
+margin-top: 10px;
+}
+
+form input, form textarea {
+display: block;
+padding: 10px;
+margin-top: 5px;
+border: 1px solid #ccc;
+border-radius: 5px;
+}
+
+form button {
+margin-top: 10px;
+padding: 10px;
+background-color: #333;
+color: #fff;
+border: none;
+border-radius: 5px;
+cursor: pointer;
+}
+
+form button:hover {
+background-color: #555;
+}
+
+footer {
+background-color: #333;
+color: #fff;
+text-align: center;
+padding: 10px 0;
+}
+
+footer p {
+margin: 0;
+}

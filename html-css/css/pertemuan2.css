@@ -1,0 +1,23 @@
+body {
+    margin: 5%;
+    color: lightslategrey ;
+    font-family: "Roboto", sans-serif;
+    border: 10px solid rgb(59, 55, 55);
+    
+}
+
+h2 {
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.image {
+    transform: translate(111%, 1%);
+    height: 300px;
+}
+
+p  {
+    font-size: 17px;
+    margin: 20px;
+    text-align: center;
+}

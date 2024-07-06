@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contoh Posisi CSS</title>
+  <style>
+    .static {
+      position: static;
+    }
+
+    .relative {
+      position: relative;
+      top: 10px;
+      left: 20px;
+    }
+
+    .absolute-container {
+      position: relative;
+      height: 200px;
+      border: 1px solid black;
+    }
+
+    .absolute {
+      position: absolute;
+      top: 10px;
+      left: 20px;
+    }
+
+    .fixed {
+      position: fixed;
+      bottom: 10px;
+      right: 20px;
+    }
+
+    .sticky-container {
+      height: 200px;
+      overflow: auto;
+    }
+
+    .sticky {
+      position: sticky;
+      top: 0;
+      background: yellow;
+    }
+
+    .flex-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 200px;
+      border: 1px solid blue;
+    }
+
+    .grid-container {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      grid-gap: 10px;
+    }
+
+    .grid-item {
+      background: lightgray;
+      padding: 10px;
+    }
+
+    .grid-special {
+      grid-column: 2 / 3;
+      grid-row: 1 / 2;
+    }
+  </style>
+</head>
+<body>
+  <div class="static">Posisi Statis</div>
+  <div class="relative">Posisi Relatif</div>
+  <div class="absolute-container">
+    <div class="absolute">Posisi Absolut</div>
+  </div>
+  <div class="fixed">Posisi Tetap</div>
+  <div class="sticky-container">
+    <div class="sticky">Posisi Lengket</div>
+    <div>Konten lain</div>
+    <div>Konten lain</div>
+    <div>Konten lain</div>
+  </div>
+  <div class="flex-container">
+    <div>Flexbox</div>
+  </div>
+  <div class="grid-container">
+    <div class="grid-item">Grid Item 1</div>
+    <div class="grid-item grid-special">Grid Item 2</div>
+    <div class="grid-item">Grid Item 3</div>
+  </div>
+</body>
+</html>

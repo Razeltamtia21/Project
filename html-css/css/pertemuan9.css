@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 96.9vh;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 10px solid slateblue;
+}
+
+.container {
+    padding: 100px;
+    text-align: center;
+    justify-content: center;
+    display: grid;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+.keys {
+    display: grid;
+    padding: 5px;
+    width: 300px;
+    height: 80px;
+    gap: 10px;
+    border: none;
+}
+
+a {
+    text-decoration: none;
+    font-size: 15px;
+    transform: translate(30%, -100%);
+}
+
+.display {
+    font-size: 15px;
+    transform: translate(-30%, 0%);   
+}
+
+button {
+    width: 200px;
+    height: 30px;
+    border-radius: 15px;
+    border: none;
+    color: gray;
+}
+
+button:hover { 
+    background-color: hsl(0, 0%, 50%);
+    color: black;
+}

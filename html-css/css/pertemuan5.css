@@ -1,0 +1,34 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(46, 50, 50);
+    color: rgb(200, 200, 200);
+}
+
+h2  {
+    font-size: 3rem;
+    text-align: center;
+    transform: translate(0%, 50%);
+}
+
+h4 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.2rem;
+    text-align: end;
+    transform: translate(0%, -500%);
+}
+
+.objek{
+    font-size: 20px;
+    text-align: center;
+    transform: translate(0%, 1500%);
+}
+
+.penerbit {
+    text-align: start;
+    transform: translate(0%, 2090%);
+}
+
+.ajaran {
+    text-align: end;
+    transform: translate(0%, 1900%);
+}
